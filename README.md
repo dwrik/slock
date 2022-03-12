@@ -4,12 +4,12 @@ simple screen locker utility for X.
 
 ## dwrik's build
 
-This is my build of slock (simple screen locker) from (suckless)[https://suckless.org/]. This build includes the following patches:
+This is my build of slock (simple X screen locker) from [suckless](https://suckless.org/). This build includes the following patches:
 
 - dpms - to automatically turn off screen after given interval
-- dwmlogo - shows a custom shape (dwm logo by default) instead of a blank screen
 - capscolor - changes indicator color if caps lock is activated
 - xresources - to draw in colors from xresources (pywal compatible)
+- dwmlogo - shows a custom shape (dwm logo by default) instead of a blank screen
 
 ## Requirements
 
